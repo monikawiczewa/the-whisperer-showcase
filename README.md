@@ -91,7 +91,7 @@ This public showcase documents the project’s purpose, current scope and select
 
 **Monika Wiczewa - AI Engineer / Creative Technologist**
 
-- **MSc Computer Science (Artificial Intelligence: Speech & Language Processing)** — University of Sheffield; Distinction, awarded 2026.
+- **MSc Computer Science (Artificial Intelligence: Speech & Language Processing)** - University of Sheffield; Distinction, awarded 2026.
 - **BA (Hons) English Language & Linguistics** — University of Sheffield, 2019.
 
 Her work sits at the intersection of AI, language, music and creative technology, with a particular interest in human-centred AI and systems that augment human creativity.
