@@ -89,7 +89,7 @@ This public showcase documents the project’s purpose, current scope and select
 
 ## About the creator
 
-**Monika Wiczewa — AI Engineer / Creative Technologist**
+**Monika Wiczewa - AI Engineer / Creative Technologist**
 
 - **MSc Computer Science (Artificial Intelligence: Speech & Language Processing)** — University of Sheffield; Distinction, awarded 2026.
 - **BA (Hons) English Language & Linguistics** — University of Sheffield, 2019.
